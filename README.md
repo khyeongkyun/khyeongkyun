@@ -13,7 +13,7 @@ Thanks for visiting!
 
 __Professional Skills__
 
-Machine Learning | Deep Learning | Computer Vision | Open-set Recognition | Self-supervised learning | Agentic AI | Retrieval-Augmented Generation | Network Analysis | Anomaly detection | Recommendation System | Data Visualization | Data Analysis | Data Management | Database design
+Machine Learning | Deep Learning | Computer Vision | Open-set Recognition | Self-supervised learning | Agentic AI | Retrieval-Augmented Generation | Network Analysis | Anomaly detection | Recommendation System | Spatial Data Analysis | Image Processing | Signal Processing | Data Visualization | Data Analysis | Data Management | Database design
 
 __Domain Knowledge__
 
