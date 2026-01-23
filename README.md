@@ -1,8 +1,8 @@
-___“Sense the world, Analyze the data, and Extract the value. Let's accelerate engineering together!”___
+___“Lightweight and Efficient AI models for edge devices—especially where resources are limited and impact is high”___
 
 Hello there 👋
 
-I am an artificial intelligence expert who combines mechanical engineering and sensing technology. I am passionate about building data processes, from gathering and cleansing to analysis and ML model training.
+I’m a PhD student at the German Aerospace Center (DLR) working on onboard AI for Earth Observation and Remote Sensing. My research focuses on making AI small, fast, and reliable enough to run directly on satellites, enabling quicker decisions in orbit and reducing dependency on ground-based processing.
 
 Thanks for visiting!
 
@@ -13,11 +13,7 @@ Thanks for visiting!
 
 __Professional Skills__
 
-Machine Learning | Deep Learning | Computer Vision | Open-set Recognition | Self-supervised learning | Agentic AI | Retrieval-Augmented Generation | Network Analysis | Anomaly detection | Recommendation System | Spatial Data Analysis | Image Processing | Signal Processing | Data Visualization | Data Analysis | Data Management | Database design
-
-__Domain Knowledge__
-
-Artificial Intelligence | Computer Science | Remote Sensing | Wearable device | Autonomous Driving | Test and Measurement | Automated system | Signal Processing
+Artificial Intelligence | Edge AI | Self-supervised learning | Remote Sensing | Data Science
 
 __Tech Stack__
 
