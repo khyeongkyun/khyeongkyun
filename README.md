@@ -13,7 +13,7 @@ Thanks for visiting!
 
 __Professional Skills__
 
-Artificial Intelligence | Edge AI | Self-supervised learning | Remote Sensing | Data Science
+Onboard AI | Remote Sensing | Earth Observation
 
 __Tech Stack__
 
