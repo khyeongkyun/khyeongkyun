@@ -41,7 +41,7 @@ Other highlights
   <a href="#"><img src="https://img.shields.io/badge/LabVIEW-Expert-_.svg?logo=labview"></a>
   <a href="#"><img src="https://img.shields.io/badge/Git-Proficient-purple.svg?logo=git"></a>
   <a href="#"><img src="https://img.shields.io/badge/QGIS-Proficient-purple.svg?logo=qgis"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Docker-Competent-orange..svg?logo=docker"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Docker-Competent-orange.svg?logo=docker"></a>
   <a href="#"><img src="https://img.shields.io/badge/D3-Competent-orange.svg?logo=D3"></a>
   <a href="#"><img src="https://img.shields.io/badge/p5js-Competent-orange.svg?logo=p5.js"></a>
 </p>
