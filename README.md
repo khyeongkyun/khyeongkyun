@@ -2,7 +2,7 @@ ___“Lightweight and Efficient AI models for edge devices—especially where re
 
 Hello there 👋
 
-I’m a PhD student at the German Aerospace Center (DLR) working on onboard AI for Earth Observation and Remote Sensing. My research focuses on making AI small, fast, and reliable enough to run directly on the edge, enabling quicker decisions in orbit and reducing dependency on ground-based processing.
+I’m a Research fellow at the German Aerospace Center (DLR) working on onboard AI for Earth Observation and Remote Sensing. My research focuses on making AI small, fast, and reliable enough to run directly on the edge, enabling quicker decisions in orbit and reducing dependency on ground-based processing.
 
 Thanks for visiting!
 
